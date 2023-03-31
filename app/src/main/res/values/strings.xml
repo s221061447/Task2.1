@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="enter_source_value">Enter Value</string>
+    <string name="enter_source_unit">Select Source Unit</string>
+    <string name="enter_destination_unit">Select Destination Unit</string>
+    <string-array name="conversions">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="lengthConversions">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+    <string-array name="weightConversions">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+    </string-array>
+    <string-array name="temperatureConversions">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
